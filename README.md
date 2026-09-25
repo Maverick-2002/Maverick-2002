@@ -2,23 +2,24 @@
 
 ### Unity Developer | XR Developer | C#
 
-I'm a **Unity Developer with 2+ years of professional experience** building interactive **3D, AR and VR applications and games** using Unity and C#.
+I'm a **Unity Developer with 2+ years of professional experience** building interactive **3D, AR and VR applications, games and simulations** using Unity and C#.
 
-I've worked on production projects across **automotive training, industrial experiences, VR simulations, AR applications and games**, with experience developing for **Meta Quest 2 & 3**.
+My professional experience spans **VR/XR, AR, hypercasual games, puzzle games, endless runners, automotive training and interactive 3D experiences**.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎮 **2+ years of professional Unity & C# experience**
-- 🥽 Unity **VR/XR development** for Meta Quest 2 & 3
-- 📱 AR development using **AR Foundation & Vuforia**
-- ⚙️ Gameplay systems, interactions, UI and performance optimization
-- 🧩 Experience with **XR Interaction Toolkit, New Input System & Addressables**
-- ☁️ Experience integrating **REST APIs, AWS API Gateway & DynamoDB**
-- 🏆 **Smart India Hackathon 2023 National Finale** — Team Leader
-- 🎓 B.Tech CSE — Game Technology / AR / VR
-- 🌍 Open to **remote international Unity / XR opportunities**
+* 🎮 **2+ years of professional Unity & C# experience**
+* 🥽 VR/XR development for **Meta Quest 2 & 3**
+* 📱 AR development using **AR Foundation & Vuforia**
+* 🕹️ Experience developing **hypercasual, puzzle and endless runner games**
+* 🚗 **Lead / Solo Unity Developer** on a VR training project for Maruti Suzuki
+* ⚙️ Gameplay systems, interactions, UI and performance optimization
+* 🧩 XR Interaction Toolkit, New Input System & Addressables
+* ☁️ REST APIs, AWS API Gateway, DynamoDB & Firebase
+* 🏆 Smart India Hackathon 2023 National Finale — Team Leader
+* 🌍 Open to **remote international Unity / XR opportunities**
 
 ---
 
@@ -45,23 +46,28 @@ I've worked on production projects across **automotive training, industrial expe
 ## 💼 Professional Experience
 
 ### Associate XR & Game Developer
+
 **XRC Studios Pvt. Ltd.**
 
-Worked on production **Unity, AR and VR applications** across automotive, industrial training and interactive experiences.
+Worked on production **Unity games, AR applications, VR experiences and interactive 3D projects** across automotive, industrial training and entertainment.
 
-### Selected Client & Project Experience
+### Selected Professional Projects
 
 #### 🚗 Maruti Suzuki — VR Training Experience
 
-Developed a Unity-based VR training experience for **Maruti Suzuki** while working at XRC Studios.
+**Lead / Solo Unity Developer**
 
-**Work included:**
+Led the Unity development of a VR training experience for **Maruti Suzuki** while working at XRC Studios.
 
-- VR interaction and training systems
-- Interactive checkpoints and progression
-- Environment and scene systems
-- Dynamic environment/skybox switching
-- Optimization for standalone VR hardware
+**Responsibilities included:**
+
+* Led the Unity development and implementation of the project
+* Built VR interactions and training workflows
+* Implemented interactive checkpoints and progression systems
+* Developed environment and scene systems
+* Implemented dynamic environment / skybox switching
+* Optimized the experience for standalone VR hardware
+* Worked on project integration, testing and iteration
 
 **Technologies:** Unity · C# · XR · Meta Quest
 
@@ -73,11 +79,11 @@ Developed an immersive educational VR experience featuring cinematic storytellin
 
 **Work included:**
 
-- Interactive VR environment
-- Cinematic storytelling
-- English & Hindi voiceovers
-- Scene and interaction systems
-- Performance optimization for Meta Quest 2 & 3
+* Interactive VR environment
+* Cinematic storytelling
+* English & Hindi voiceovers
+* Scene and interaction systems
+* Performance optimization for Meta Quest 2 & 3
 
 **Technologies:** Unity · C# · XR · Meta Quest
 
@@ -95,12 +101,42 @@ Developed interactive 360° industrial experiences for exploring factory environ
 
 Developed multiple interactive VR training modules involving:
 
-- Object interactions
-- Training workflows
-- Interactive environments
-- UI systems
-- Scene management
-- Performance optimization
+* Object interactions
+* Training workflows
+* Interactive environments
+* UI systems
+* Scene management
+* Performance optimization
+
+---
+
+#### 🧩 Hypercasual & Puzzle Games
+
+Worked on **hypercasual and puzzle game projects** using Unity and C#.
+
+**Areas included:**
+
+* Gameplay mechanics
+* Player interaction
+* Level-based systems
+* UI and game flow
+* Game states and progression
+* Performance optimization
+
+---
+
+#### 🏃 Endless Runner Games
+
+Developed **endless runner projects** involving:
+
+* Player movement
+* Procedural / continuous level generation
+* Obstacle and object spawning
+* Score and progression systems
+* Gameplay loops
+* UI and game-state management
+
+**Technologies:** Unity · C#
 
 ---
 
@@ -154,7 +190,7 @@ Led the selected team representing **The NorthCap University** at the national-l
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**  
+**B.Tech — Computer Science & Engineering**
 Specialization: **Game Technology / AR / VR**
 
 **The NorthCap University**
@@ -165,13 +201,13 @@ First Class with Distinction
 
 ## 📈 Currently
 
-I'm currently focused on:
+I'm focused on:
 
-- 🎮 Advanced Unity development
-- 🥽 XR / VR development
-- ⚡ Unity performance optimization
-- 🧠 Game architecture & systems programming
-- 🌍 Building a portfolio for **international remote Unity opportunities**
+* 🎮 Advanced Unity development
+* 🥽 XR / VR development
+* ⚡ Unity performance optimization
+* 🧠 Game architecture & systems programming
+* 🌍 Remote international Unity opportunities
 
 ---
 
