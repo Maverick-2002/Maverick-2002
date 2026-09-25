@@ -14,7 +14,7 @@ My professional experience spans **VR/XR, AR, hypercasual games, puzzle games, e
 * 🥽 VR/XR development for **Meta Quest 2 & 3**
 * 📱 AR development using **AR Foundation & Vuforia**
 * 🕹️ Experience developing **hypercasual, puzzle and endless runner games**
-* 🚗 **Lead / Solo Unity Developer** on a VR training project for Maruti Suzuki
+* 🚗 **Lead Unity Developer** on a VR training project for Maruti Suzuki
 * ⚙️ Gameplay systems, interactions, UI and performance optimization
 * 🧩 XR Interaction Toolkit, New Input System & Addressables
 * ☁️ REST APIs, AWS API Gateway, DynamoDB & Firebase
@@ -55,7 +55,7 @@ Worked on production **Unity games, AR applications, VR experiences and interact
 
 #### 🚗 Maruti Suzuki — VR Training Experience
 
-**Lead / Solo Unity Developer**
+**Lead Unity Developer**
 
 Led the Unity development of a VR training experience for **Maruti Suzuki** while working at XRC Studios.
 
