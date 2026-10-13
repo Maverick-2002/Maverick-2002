@@ -1,10 +1,12 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Maverick-2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 # Hi, I'm Gauraang Goel 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-Maverick--2002-181717?style=flat&logo=github)](https://github.com/Maverick-2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauraang/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ggauraang@gmail.com)
 
 ### Unity Developer | Game Developer | XR Developer
-
-![Profile Views](https://komarev.com/ghpvc/?username=Maverick-2002&label=Profile%20Views&color=0e75b6&style=flat)
 
 I'm a **Unity Developer with 2+ years of professional experience** building interactive games, VR/XR applications, AR experiences, and real-time 3D simulations. I enjoy developing immersive experiences that combine gameplay, interaction systems, and performance optimization.
 
@@ -29,6 +31,10 @@ From building VR training experiences to creating games and interactive worlds, 
 - AR Foundation, Vuforia
 - Meta Quest 2 and Quest 3
 - VR Interactions, Training Simulations, Immersive Experiences
+
+**Exploring & Expanding**
+- 🎮 Unreal Engine 5 — Building foundational skills in game development
+- 🐍 Python — Learning the fundamentals and strengthening programming skills
 
 **Backend & Tools**
 - Git, GitHub
@@ -79,7 +85,7 @@ A first-person interactive experience focused on dementia caregiving scenarios.
 
 🔗 **Repository:** [Care Rush](https://github.com/Maverick-2002/CareGiverGame)
 
-### 🪐 Orbit Academy — Space-Themed VR Escape Room
+### 🚀 Orbit Academy — Space-Themed VR Escape Room
 
 An immersive, space-themed VR escape room built in Unity, where players explore a virtual environment, solve puzzles, and interact with their surroundings to progress through the experience.
 
@@ -118,7 +124,7 @@ An augmented reality project using marker tracking and AR interactions.
 ## 🏆 Achievements
 
 **🥇 Winner (1st Place) — Pixel Punk 2025**
-- MAIT Delhi — Retro Theme Game Development Competition.
+- MAIT Delhi — Game Development Competition.
 
 **🏅 Smart India Hackathon 2023 — National Finale**
 - Served as Team Leader.
