@@ -107,7 +107,7 @@ A Unity game development project focused on gameplay mechanics and interactive s
 
 🔗 **Repository:** [Mark of the Ninja](https://github.com/Maverick-2002/CPGD-Mark-Of-The-Ninja)
 
-### 🏃 Endless Runner
+### 🏃 Adventurous Granny — Endless Runner
 
 A Unity project focused on endless runner mechanics and gameplay implementation.
 
