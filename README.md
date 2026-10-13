@@ -1,6 +1,6 @@
 # Hi, I'm Gauraang Goel 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-Maverick--2002-181717?style=flat&logo=github)](https://github.com/Maverick-2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauraang/)
+[![GitHub](https://img.shields.io/badge/GitHub-Maverick--2002-181717?style=flat&logo=github)](https://github.com/Maverick-2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauraang/) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ggauraang@gmail.com)
 
 ### Unity Developer | Game Developer | XR Developer
 
@@ -79,9 +79,9 @@ A first-person interactive experience focused on dementia caregiving scenarios.
 
 🔗 **Repository:** [Care Rush](https://github.com/Maverick-2002/CareGiverGame)
 
-### 🪐 Orbit Academy — VR Escape Room
+### 🪐 Orbit Academy — Space-Themed VR Escape Room
 
-An immersive VR escape room experience built with Unity, combining virtual reality interaction with puzzle-solving and exploration.
+An immersive, space-themed VR escape room built in Unity, where players explore a virtual environment, solve puzzles, and interact with their surroundings to progress through the experience.
 
 🔗 **Repository:** [Orbit Academy — VR Escape Room](https://github.com/Kartik242421/VR_EscapeRoom_Internship)
 
@@ -118,7 +118,7 @@ An augmented reality project using marker tracking and AR interactions.
 ## 🏆 Achievements
 
 **🥇 Winner (1st Place) — Pixel Punk 2025**
-- MAIT Delhi — Game Development Competition.
+- MAIT Delhi — Retro Theme Game Development Competition.
 
 **🏅 Smart India Hackathon 2023 — National Finale**
 - Served as Team Leader.
