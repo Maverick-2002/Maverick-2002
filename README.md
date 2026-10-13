@@ -1,262 +1,146 @@
 # Hi, I'm Gauraang Goel 👋
 
+[![GitHub](https://img.shields.io/badge/GitHub-Maverick--2002-181717?style=flat&logo=github)](https://github.com/Maverick-2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gauraang/)
+
 ### Unity Developer | Game Developer | XR Developer
 
-I'm a **Unity Developer with 2+ years of professional experience** building games, VR/XR experiences, AR applications, simulations, and interactive 3D applications using **Unity and C#**.
+![Profile Views](https://komarev.com/ghpvc/?username=Maverick-2002&label=Profile%20Views&color=0e75b6&style=flat)
 
-My experience spans **automotive VR training, industrial experiences, hypercasual and puzzle games, endless runners, AR applications, and immersive simulations**.
+I'm a **Unity Developer with 2+ years of professional experience** building interactive games, VR/XR applications, AR experiences, and real-time 3D simulations. I enjoy developing immersive experiences that combine gameplay, interaction systems, and performance optimization.
 
----
+From building VR training experiences to creating games and interactive worlds, I love turning ideas into experiences people can actually play, explore, and interact with. 🎮
 
-## 👨‍💻 About Me
+- 🎮 **Specialization:** Unity, C#, Game Development, AR/VR
+- 🥽 **XR Experience:** Meta Quest 2/3, OpenXR, XR Interaction Toolkit
+- 🚗 **Industry Project:** Lead Unity Developer on a VR training project for Maruti Suzuki at XRC Studios
+- 🏆 **Achievement:** Winner — Pixel Punk 2025, MAIT Delhi
+- 🌍 **Currently looking for:** Remote international opportunities in Unity, Game Development, and XR
 
-* 🎮 **2+ years of professional Unity & C# experience**
-* 🚗 **Lead Unity Developer** on a VR training project for **Maruti Suzuki**
-* 🥽 VR/XR development for **Meta Quest 2 & Meta Quest 3**
-* 🕹️ Experience with **hypercasual, puzzle and endless runner games**
-* 📱 AR development using **AR Foundation & Vuforia**
-* ⚙️ Gameplay systems, interaction systems, UI and performance optimization
-* 🧩 XR Interaction Toolkit, New Input System & Addressables
-* ☁️ REST APIs, AWS API Gateway, AWS DynamoDB & Firebase
-* 🏆 **Smart India Hackathon 2023 National Finale** — Team Leader
-* 🌍 Open to **remote international Unity / Game / XR opportunities**
+## 🛠️ Tech Stack
 
----
+**Game Development**
+- Unity, C#
+- Gameplay Programming, Physics, UI, Prefabs, Scene Management
+- New Input System, Addressables
+- Unity Profiler and Performance Optimization
 
-# 🛠️ Tech Stack
+**AR/VR Development**
+- XR Interaction Toolkit, OpenXR
+- AR Foundation, Vuforia
+- Meta Quest 2 and Quest 3
+- VR Interactions, Training Simulations, Immersive Experiences
 
-### 🎮 Game Development
+**Backend & Tools**
+- Git, GitHub
+- REST APIs
+- AWS API Gateway, AWS DynamoDB
+- Firebase
 
-`Unity` `C#` `Unity 2D` `Unity 3D` `Gameplay Programming` `Physics` `Animation` `UI`
+**Platforms**
+- Windows, Android, WebGL, Meta Quest
 
-### 🥽 XR / AR
+## 💼 Professional Experience
 
-`XR Interaction Toolkit` `OpenXR` `AR Foundation` `Vuforia` `Meta Quest 2` `Meta Quest 3`
+### Associate XR & Game Developer — XRC Studios Pvt. Ltd.
+*June 2024 – May 2026*
 
-### ⚙️ Unity Systems
+Worked on Unity-based games, AR/VR applications, interactive simulations, and real-time 3D experiences.
 
-`New Input System` `Addressables` `Scene Management` `Prefab Systems` `Unity Profiler` `Performance Optimization`
+**🚗 Maruti Suzuki — VR Training Experience**
+- Served as Lead Unity Developer on a VR training project.
+- Implemented VR interactions, training workflows, checkpoints, and progression systems.
+- Developed environment and scene systems, including dynamic skybox switching.
+- Worked on testing, debugging, and standalone VR performance optimization.
 
-### ☁️ Backend & Tools
+**🪐 VR Solar System Experience**
+- Developed an interactive VR solar system experience with cinematic storytelling.
+- Integrated English and Hindi voiceovers.
+- Optimized the experience for Meta Quest 2 and Quest 3.
 
-`Git` `GitHub` `REST APIs` `AWS API Gateway` `AWS DynamoDB` `Firebase`
+**🏭 360° Factory Tours & VR Training Simulations**
+- Worked on immersive factory tours and interactive industrial training modules.
+- Developed real-time 3D environments and user interactions for training experiences.
 
-### 💻 Platforms
+**🎮 Games Development**
+- Worked on hypercasual and puzzle games.
+- Developed endless runner gameplay systems and interactive mechanics.
 
-`Android` `Windows` `WebGL` `Meta Quest`
+## 🚀 Featured Projects
 
----
+### 🧠 Care Rush — Interactive Unity Experience
 
-# 💼 Professional Experience
+A first-person interactive experience focused on dementia caregiving scenarios.
 
-## Associate XR & Game Developer
+- Developed interactive tasks, gameplay progression, and metrics tracking.
+- Integrated a REST API with AWS API Gateway and AWS DynamoDB.
+- Worked with a web dashboard for visualizing gameplay metrics, hosted through GitHub Pages.
 
-### XRC Studios Pvt. Ltd.
+**Tech:** Unity, C#, REST API, AWS API Gateway, AWS DynamoDB, GitHub Pages
 
-Worked on production **Unity games, VR/XR experiences, AR applications and interactive 3D projects** for commercial and enterprise use cases.
+🔗 **Repository:** [Care Rush](https://github.com/Maverick-2002/CareGiverGame)
 
-### 🚗 Maruti Suzuki — VR Training Experience
+### 🪐 Orbit Academy — VR Escape Room
 
-**Lead Unity Developer**
+An immersive VR escape room experience built with Unity, combining virtual reality interaction with puzzle-solving and exploration.
 
-Led the Unity development of a VR training experience for **Maruti Suzuki** while working at XRC Studios.
+🔗 **Repository:** [Orbit Academy — VR Escape Room](https://github.com/Kartik242421/VR_EscapeRoom_Internship)
 
-**Key responsibilities:**
+### ⚔️ Iron Veil
 
-* Led Unity development and implementation
-* Developed VR interactions and training workflows
-* Implemented interactive checkpoints and progression systems
-* Built environment and scene systems
-* Implemented dynamic environment / skybox switching
-* Optimized the application for standalone VR hardware
-* Handled testing, debugging and project iterations
+A Unity game project using modern input handling and asset management.
 
-**Technologies:** `Unity` `C#` `XR` `Meta Quest`
+- Implemented gameplay systems using Unity's New Input System.
+- Used Addressables for asset management.
+- Worked with PC and Android targets.
 
----
+🔗 **Repository:** [Iron Veil](https://github.com/Maverick-2002/Iron-Veil)
 
-### 🪐 VR Solar System Experience
+### 🥷 Mark of the Ninja
 
-Developed an immersive educational VR experience combining interactive exploration with cinematic storytelling.
+A Unity game development project focused on gameplay mechanics and interactive systems.
 
-**Key contributions:**
+🔗 **Repository:** [Mark of the Ninja](https://github.com/Maverick-2002/CPGD-Mark-Of-The-Ninja)
 
-* Developed interactive VR environments
-* Implemented gameplay and interaction systems
-* Integrated cinematic sequences
-* Implemented English and Hindi voiceovers
-* Optimized the application for Meta Quest 2 & 3
+### 🏃 Endless Runner
 
-**Technologies:** `Unity` `C#` `XR` `Meta Quest`
+A Unity project focused on endless runner mechanics and gameplay implementation.
 
----
+🔗 **Repository:** [Endless Runner](https://github.com/Maverick-2002/Endless-Runner)
 
-### 🏭 360° Factory Tours
+### 🧶 WoolToCool AR
 
-Developed interactive 360° experiences for exploring industrial and factory environments.
+An augmented reality project using marker tracking and AR interactions.
 
-**Technologies:** `Unity` `C#` `360° Media` `Interactive UI`
+- Implemented marker-based AR functionality using AR Foundation.
 
----
+🔗 **Repository:** [WoolToCool AR](https://github.com/Maverick-2002/AR-Project-WoolToCool)
 
-### 🥽 VR Training & Simulation Modules
+## 🏆 Achievements
 
-Worked on multiple interactive VR training applications involving:
+**🥇 Winner (1st Place) — Pixel Punk 2025**
+- MAIT Delhi — Game Development Competition.
 
-* Interactive object systems
-* Training workflows
-* Environment interactions
-* UI systems
-* Scene management
-* Performance optimization
-* Standalone VR deployment
+**🏅 Smart India Hackathon 2023 — National Finale**
+- Served as Team Leader.
+- Represented the only team selected from my college for the national finale.
 
-**Technologies:** `Unity` `C#` `XR` `Meta Quest`
+## 🎓 Education
 
----
+**B.Tech in Computer Science and Engineering**  
+Specialization: Game Technology, AR & VR  
+The NorthCap University  
+CGPA: 8.5/10 — First Class with Distinction
 
-### 🧩 Hypercasual & Puzzle Games
-
-Worked on **hypercasual and puzzle game projects** using Unity and C#.
-
-**Experience included:**
-
-* Gameplay mechanics
-* Player interactions
-* Level systems
-* Game progression
-* UI and game flow
-* Game states
-* Performance optimization
-
-**Technologies:** `Unity` `C#`
-
----
-
-### 🏃 Endless Runner Games
-
-Worked on endless runner projects involving:
-
-* Player movement
-* Continuous level generation
-* Obstacle and object spawning
-* Score systems
-* Progression systems
-* Gameplay loops
-* UI and game-state management
-
-**Technologies:** `Unity` `C#`
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Care Rush — Interactive Unity Experience
-
-A first-person interactive Unity experience focused on simulating caregiving scenarios and collecting gameplay performance metrics.
-
-The project combines **Unity gameplay development with REST API integration and cloud-based data storage**.
-
-### Key Features
-
-* First-person interactive gameplay
-* Three caregiving scenarios
-* Object-based interaction systems
-* Task and progression systems
-* Gameplay metrics collection
-* Results and performance tracking
-* REST API integration
-* AWS API Gateway integration
-* AWS DynamoDB data storage
-* Web dashboard for metrics visualization
-* GitHub Pages deployment
-
-**Technologies:** `Unity` `C#` `AWS API Gateway` `AWS DynamoDB` `REST API` `GitHub Pages`
-
-**[View Repository →](https://github.com/Maverick-2002/CareGiverGame)**
-
----
-
-## ⚔️ Iron Veil
-
-A Unity game project focused on gameplay systems, combat mechanics and cross-platform development.
-
-**Technologies:** `Unity` `C#` `New Input System` `Addressables`
-
-**[View Repository →](https://github.com/Maverick-2002/Iron-Veil)**
-
----
-
-## 🥷 Mark of the Ninja
-
-A Unity game development project focused on gameplay programming, level design and interactive systems.
-
-**Technologies:** `Unity` `C#`
-
-**[View Repository →](https://github.com/Maverick-2002/CPGD-Mark-Of-The-Ninja)**
-
----
-
-## 🏃 Endless Runner
-
-A Unity-based endless runner project demonstrating player movement, spawning systems, gameplay loops and progression mechanics.
-
-**Technologies:** `Unity` `C#`
-
-**[View Repository →](https://github.com/Maverick-2002/Endless-Runner)**
-
----
-
-## 📱 WoolToCool AR
-
-A mobile AR application developed using Unity and AR Foundation.
-
-**Technologies:** `Unity` `C#` `AR Foundation` `Mobile AR`
-
-**[View Repository →](https://github.com/Maverick-2002/AR-Project-WoolToCool)**
-
----
-
-# 🏆 Achievement
-
-## Smart India Hackathon 2023 — National Finale
-
-**Team Leader**
-
-Led the selected team representing **The NorthCap University** at the National Finale of Smart India Hackathon 2023.
-
----
-
-# 🎓 Education
-
-## The NorthCap University
-
-**B.Tech — Computer Science & Engineering**
-
-Specialization: **Game Technology / AR / VR**
-
-**First Class with Distinction**
-
----
-
-# 📌 Currently
+## 📌 Currently
 
 I'm focused on:
 
-* 🎮 Advanced Unity & C# development
-* 🥽 XR / VR development
-* ⚡ Unity performance optimization
-* 🧠 Game architecture and systems programming
-* 🌍 Remote international Unity / Game Development opportunities
+- 🎮 Advanced Unity & C# development
+- 🥽 XR / VR development
+- ⚡ Unity performance optimization
+- 🧠 Game architecture and systems programming
+- 🌍 Remote international Unity / Game Development opportunities
 
 ---
 
-# 📫 Connect With Me
-
-**GitHub:** [Maverick-2002](https://github.com/Maverick-2002)
-
-**LinkedIn:** [Gauraang Goel](https://www.linkedin.com/in/gauraang/)
-
----
-
-### 🎮 Building games, immersive experiences and interactive worlds with Unity & C#.
+*Building interactive worlds, one experience at a time. 🚀*
